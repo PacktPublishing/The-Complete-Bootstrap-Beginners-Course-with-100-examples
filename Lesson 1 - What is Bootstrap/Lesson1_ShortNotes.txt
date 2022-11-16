@@ -1,0 +1,18 @@
+Lesson 1: What is Bootstrap?
+
+Bootstrap
+- Free and most popular HTML, CSS, and JavaScript framework
+- Faster and easier web development
+- Responsive Website (Web sites that automatically adjust themselves on all devices)
+- Modern Web Browsers
+- Mobile-first approach
+
+History
+ - Developers: Mark Otto and Jacob Thornton
+ - 2011
+ 
+Bootstrap 5
+ - New components and Styles
+ - More responsive
+ - Supports stable releases of all major browsers and platforms
+ 

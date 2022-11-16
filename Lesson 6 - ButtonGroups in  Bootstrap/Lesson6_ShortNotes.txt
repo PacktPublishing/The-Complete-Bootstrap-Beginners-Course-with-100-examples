@@ -1,0 +1,28 @@
+Lesson 6: Bootstrap Button Groups
+
+- Button Groups are a series of buttons
+- Add a new button group
+
+- Classes
+.btn-group
+.btn-group-vertical
+.btn-group-justified
+
+- Sizes
+.btn-group-lg: Large Button Group
+.btn-group-sm: Small Button Group
+.btn-group-xs: Extra Small Button Group
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

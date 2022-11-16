@@ -1,0 +1,23 @@
+Q- How to change the height of a Progress Bar in Bootstrap?
+   Use .progress-bar-height class
+   Use CSS height property (Answer)
+   Use height attribute
+   None of the above
+
+Q- How to change the width of a Progress Bar in Bootstrap?
+   Use width attribute
+   Use .progress-bar-width class
+   Use CSS width property (Answer)
+   None of the above
+   
+Q- Which class is used to add stripes to Progess Bar in Bootstrap?
+   Use.striped class
+   Use.progress-striped class
+   Use.progress-bar-striped class (Answer)
+   Use CSS	 
+   
+Q - How to create animated progress bar in Bootstrap?
+    Use .progress-bar-animated class (Answer)
+	Use CSS
+	Use .progress-animated class
+    Use .animated class

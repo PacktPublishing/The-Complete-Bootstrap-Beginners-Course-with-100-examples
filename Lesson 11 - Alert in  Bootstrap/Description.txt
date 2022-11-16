@@ -1,0 +1,5 @@
+Leanr how to work with alert component in Bootstrap and set predefined alert messages. Use different classes to create different types of alert boxes:
+- Add a close (x) symbol to the right of the alert to close it
+- While closing an alert box, add a fading effect to it.
+fade and show classes
+- Add a link in the alert box

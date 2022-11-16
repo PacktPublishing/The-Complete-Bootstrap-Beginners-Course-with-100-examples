@@ -1,0 +1,28 @@
+Lesson 4: Bootstrap Grids
+
+- 12 columns on a web page is the responsive grid
+- If you want to create group of columns, then use the rows class.
+
+- Five classes
+   
+   .col-	:
+      Device: <576px i.e. Extra Small Devices
+	  Example: <div class="col-3">One</div>
+	  
+   .col-sm-	:
+      Device: >=576px i.e. Small Devices
+	  Example: <div class="col-sm-1>One</div>
+	  
+   .col-md-	:
+       Device: >=768px i.e. Medium Devices like iPad
+	   Example: <div class="col-md-1>One</div>
+	 
+   .col-lg-	:
+       Device: >=992px i.e. Large Devices
+	   Example: <div class="col-lg-1>One</div>
+	   
+   .col-xl-	:
+       Device: >=1200px i.e. Extra Large Devices
+	   Example: <div class="col-xl-1>One</div>
+	   
+Example: For four equal columns, use four .col-sm-3

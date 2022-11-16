@@ -1,0 +1,8 @@
+Learn how to create a table from scratch on a web page. 
+We will also see how to work with Bootstrap classes to create:
+- striped table
+- bordered table
+- dark-colored table
+- borderless table
+- table with dark-colored header
+- table with light-colored header

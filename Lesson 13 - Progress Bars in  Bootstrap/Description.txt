@@ -1,0 +1,6 @@
+Learn how to create a ProgressBar on a web page with Bootstrap. With that, get thorough understanding about the following in this lesson:
+- Set the width of ProgressBar
+- Set the height of ProgressBar
+- Add stripes to ProgressBar
+- Change the color of ProgressBar
+- Animate ProgressBar

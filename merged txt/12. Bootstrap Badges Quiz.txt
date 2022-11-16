@@ -1,0 +1,14 @@
+Q - How to create badges in Bootstrap?
+    Use .bd class
+	Use .badge class (Answer)
+	Use .badge class
+	Use .badge-pill class
+	
+
+Q - Which Bootstrap class is used to make the badges more round?
+    .badge-round
+	.badge-circle
+	.badge-pill (Answer)
+	.badge-rad
+
+

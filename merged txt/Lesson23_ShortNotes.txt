@@ -1,0 +1,20 @@
+Lesson 23: Bootstrap Form Input Controls
+
+- Controls
+  input (Text)
+  input (Password)
+  checkbox
+  radio
+  textarea
+  select
+
+- Resize Form Control
+  .form-control-sm: small
+  .form-control-lg: large
+
+- Set Range Input
+  input (Range)
+
+- Set File Input
+  input (File)
+

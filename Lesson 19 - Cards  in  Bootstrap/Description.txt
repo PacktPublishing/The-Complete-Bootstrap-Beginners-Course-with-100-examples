@@ -1,0 +1,11 @@
+Learn what is a card in Bootstrap and how to create one. With that, learn the following in this lesson:
+- Card Header and Footer
+- How to add color to card
+- Set Card Title
+- Card Link
+- Add Image to a card background
+- Set the image at the top inside the card
+- Set the image at the bottom inside the card
+- Grid of Cards
+- Deck of cards
+- Group of cards

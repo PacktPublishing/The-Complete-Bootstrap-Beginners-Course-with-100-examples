@@ -1,0 +1,25 @@
+Q- Which class is used to create a basic Navigation Bar in Bootstrap?
+   .navbar class (Answer)
+   .nav class
+   .nav-bar class
+   None of the above
+   
+Q- Which Bootstrap class is used to center a Navigation Bar?
+   .justify-navbar-center class
+   .justify-content class
+   .justify-center class
+   .justify-content-center class (Answer)
+   
+Q - For logo in a navigation bar, which Bootstrap class is used?
+    .navbar-logo class
+	.navbar-brand-logo class
+	.navbar-brand class (Answer)
+	None of the above
+	
+Q - How to fix a navigation bar on the top of the web page?
+    .fixed-top class (Answer)
+	.top-fixed class
+	.fixed class
+	None of the above
+   
+

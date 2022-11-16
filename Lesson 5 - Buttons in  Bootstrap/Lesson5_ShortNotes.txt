@@ -1,0 +1,41 @@
+Lesson 5: Bootstrap Buttons
+
+- Add a new button
+
+- Classes
+.btn
+.btn-default: Default Button
+.btn-primary: Blue colored
+.btn-success: Success action on a button
+.btn-info: set info messages on a button
+.btn-warning: sets warning action on a button
+.btn-danger: sets danger action on a button
+.btn-link: make a button look like a link
+
+- Sizes
+.btn-lg: Large Button
+.btn-md: Medium Button
+.btn-sm: Small Button
+.btn-xs: Extr Small Button
+
+- Active Buttons
+
+- Disabled Button
+
+- Block Level Button
+
+- Different ways:
+  <a>, <button>, <input>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,11 @@
+Q- Which Bootstrap class is used to create a bordered list group?
+   .list-group-bordered
+   .list-group (Answer)
+   .group
+   None of the above
+
+Q- How to create a list group heading in Bootstrap?
+   .listgroup-heading class
+   .group-item-heading class
+   .list-group-heading class
+   .list-group-item-heading class (Answer)

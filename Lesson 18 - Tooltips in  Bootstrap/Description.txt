@@ -1,0 +1,6 @@
+Learn how to create tooltip in Bootstrap and how to position a tooltip, with the following:
+- Set the position of the tooltip on top of an element
+- Set the position of the tooltip on bottom of an element
+- Set the position of the tooltip on left of an element
+- Set the position of the tooltip on right of an element
+

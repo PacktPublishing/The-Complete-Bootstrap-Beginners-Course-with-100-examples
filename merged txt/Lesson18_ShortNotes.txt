@@ -1,0 +1,13 @@
+Lesson 18: Tooltips in Bootstrap
+
+- Create Tooltip
+   Tooltip is a popover that appears when you hover mouse cursor
+   data-toggle="tooltip" attribute
+   tooltip()
+
+- Position Tooltip (data-placement attribute_
+	Set the position of the tooltip on top of an element
+	Set the position of the tooltip on bottom of an element
+	Set the position of the tooltip on left of an element
+	Set the position of the tooltip on right of an element
+

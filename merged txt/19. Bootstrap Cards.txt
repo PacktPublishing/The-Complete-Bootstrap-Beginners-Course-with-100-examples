@@ -1,0 +1,23 @@
+Q - Set Card Title in Bootstrap
+    .title class
+	.cardtitle class
+	.card-title class (Answer)
+	.card-head-title class
+	
+Q - Which class is used to create a grid of cards in Bootstrap?
+    .card-grid
+	.card-grids
+	.card-column 
+	.card-columns (Answer)
+
+Q - How to add image to a card background in Bootstrap?
+    .card-overlay class
+	.overlay class
+	.card-img-overlay (Answer)
+	.card-img
+	
+Q - How to add deck of cards in Bootstrap?
+	.deck class
+	.card-group class
+	.card-deck class (Answer)
+	None of the above

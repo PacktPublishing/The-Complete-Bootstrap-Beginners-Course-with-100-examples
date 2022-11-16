@@ -1,0 +1,28 @@
+Lesson 21: Dropdown in Bootstrap
+
+- Create Dropdown Menu
+
+- Separate links in a Dropdown Menu
+  .dropdown-divider class
+
+- Add header in Dropdown Menu
+  .dropdown-header class
+
+- Set Active for dropdown menu item
+  .active class
+
+- Set Disabled for dropdown menu item
+  .disabled class
+
+- Dropright menu
+  .dropright class
+
+- Dropleft menu
+  .dropleft class
+
+- Align dropdown menu to the right
+  .dropdown-menu-right class
+
+
+
+

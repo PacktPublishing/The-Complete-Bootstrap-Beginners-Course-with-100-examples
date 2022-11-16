@@ -1,0 +1,11 @@
+Q-  Which HTML character code is used to set a close (x) symbol to the right of the alert?
+    &#39;	
+	&raquo;	
+	&times; (Answer)
+    &szlig;	
+	
+Q- Which class is used to add a link in the alert box?
+    .alert-link (Answer)
+	.alert
+	.link
+	.alertlink

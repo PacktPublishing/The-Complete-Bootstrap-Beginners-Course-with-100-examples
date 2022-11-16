@@ -1,0 +1,4 @@
+Learn about Bootstrap Form Input Controls, such as input text, password, checkbox, readio, textarea, select, etc with implementation. Additionaly, learn the following:
+- How to resize Form Control
+- Set Range Input
+- Set File Input

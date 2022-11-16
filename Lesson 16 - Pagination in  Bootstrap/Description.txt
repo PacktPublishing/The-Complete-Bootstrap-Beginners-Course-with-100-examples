@@ -1,0 +1,9 @@
+In this lesson, learn how to create Pagination in Bootstrap. With that, learn:
+
+- How to highlight a link
+- How to disable a link
+- Resize Pagination
+- Align Pagination
+
+
+

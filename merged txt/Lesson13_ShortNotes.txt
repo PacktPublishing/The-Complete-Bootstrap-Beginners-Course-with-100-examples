@@ -1,0 +1,26 @@
+Lesson 13: Bootstrap Progress Bars
+
+- Create a Progess Bar
+  Use .progress class
+  Use .progress-bar class
+
+- Width of a Progess Bar
+  width
+
+- Height of a Progess Bar
+  height
+
+- Add stripes to Progess Bar
+  Use.progress-bar-striped class
+
+- Set label
+
+- Use Bootstrap 4 contextual background classes to change
+  the color of the Progess Bar 
+    .progress-bar-success
+    .progress-bar-info
+    .progress-bar-warning
+    .progress-bar-danger
+  
+- Animate Progess Bar: 
+  Use .progress-bar-animated class

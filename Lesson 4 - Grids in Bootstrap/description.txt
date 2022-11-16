@@ -1,0 +1,1 @@
+Understand the Grid Structure of Bootstrap. How to create a responsive grid for extra small, small, medium-sixed, large and extra-large devices. Live running of code to make it easier for newbies to understand the different sizes of a screen and how to design them with Bootstrap.

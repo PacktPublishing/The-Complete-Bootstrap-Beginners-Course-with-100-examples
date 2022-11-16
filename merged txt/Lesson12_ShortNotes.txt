@@ -1,0 +1,19 @@
+Lesson 12: Bootstrap Badges
+
+- Add key info to a text with Badges
+
+- Create Badges
+Use .badge
+
+- Contextual Classes to change badge color
+.badge-primary
+.badge-secondary
+.badge-success
+.badge-danger
+.badge-warning
+.badge-info
+.badge-light
+.badge-dark
+
+- Class to change the shape of a Badge
+Use .badge-pill

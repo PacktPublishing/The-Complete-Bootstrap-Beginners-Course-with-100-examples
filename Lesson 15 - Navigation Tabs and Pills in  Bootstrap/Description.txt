@@ -1,0 +1,19 @@
+Learn how to create a horizontal menu on a web page, set Nav Alignment. With that learn the following from this lesson:
+- How to create a Vertical Nav
+- How to crate Navigation Tabs
+- Tabs vs Pills
+- How to create Navigation Pills
+- Justify Navigation Tabs/ Navigation Pills
+- Add dropdown to Tabs/ Pills
+- Toggleabale/ Dynamic Tabs
+- Toggleabale/ Dynamic Pills
+
+
+
+
+
+
+
+
+
+

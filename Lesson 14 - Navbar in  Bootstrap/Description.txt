@@ -1,0 +1,21 @@
+Learn how to create a Navbar in Bootstrap and,
+- Center a Navigation Bar
+- Change the background color of the navigation bar
+- Change the text color of the nav bar items
+- Set logo on top navigation bar
+- Set fixed navigation bar (top + bottom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

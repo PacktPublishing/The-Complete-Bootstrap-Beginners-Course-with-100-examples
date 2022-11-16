@@ -1,0 +1,11 @@
+Q - How to resize a form control to be larger than the default size in Bootstrap?
+    .form-control-large
+	.form-large
+	.form-control-lg (Answer)
+	.input-control-lg
+	
+Q - How to create a checkbox form control in Bootstrap?
+    input type ="checkbox" (Answer)
+	input type ="check-box"
+	input type ="text" checkbox
+	input type ="text" checkbox

@@ -1,0 +1,17 @@
+Q - Which Bootstrap class is used to resize the default pagination to a larger size?
+	.pagination-large
+	.pagination-lg (Answer)
+	.lg-pagination
+	None of the above
+	
+Q - Which class is used to highlight a pagination link (current page) with Bootstrap?
+	.highlight
+	pagination-active
+	pagination-highlight
+	.active class (Answer)
+	
+Q - How to right-align a pagination with Bootstrap?
+    class="pagination justify-content-end" (Answer)
+	class="pagination justify-content"
+	class="pagination justify-content-right"
+	class="pagination justify-right"

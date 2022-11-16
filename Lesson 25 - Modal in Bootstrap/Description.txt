@@ -1,0 +1,6 @@
+Learn how to implement Modal in Bootstrap. With this lesson, you can learn how to:
+- Create a Modal
+- Create a Modal Dialog
+- Set Modal Content i.e. header, title, body, footer, etc.
+- How to fade Modal
+- How to resize a Modal in Bootstrap

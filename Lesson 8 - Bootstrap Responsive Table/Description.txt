@@ -1,0 +1,1 @@
+Learn how to create a responsive table. With live running example, get thorough knowledge about designing a responsive table on small, medium, large and extra-large devices.

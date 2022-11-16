@@ -1,0 +1,3 @@
+Learn what are Badges in Bootstrap and its uses. Additional, create a new Badge on a web page and:
+- Change badge color
+- Change the shape of a badge

@@ -1,0 +1,11 @@
+Q-  For responsive fixed width container, which Bootstrap class is used?
+    .container-fluid
+	.container-fixed
+	.container (Answer)
+    None of the above
+	
+Q- For full width container, which Bootstrap class is used?
+    .container-fluid (Answer)
+	.container 
+	.container-full
+    .container-responsive

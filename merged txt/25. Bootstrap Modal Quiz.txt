@@ -1,0 +1,18 @@
+Q - How to create a large Bootstrap modal wider than default?
+    .modal-large	
+	.modal-lg (Answer)	
+	.lg-modal	
+	.wider-modal	
+	
+Q - How to add a transition effect which fades the Bootstrap modal in and out?
+    class="modal-fade"
+	class="modal" fade
+	class="modalfade"
+	class="modal fade" (Answer)
+	
+Q - How to center the modal vertically and horizontally within the page in Bootstrap?
+    <div class="modal-dialog modal-centered">
+    <div class="modal-dialog modal-dialog-centered"> (Answer)
+    <div class="modal-dialog centered">
+    <div class="modal modal-dialog-centered">
+

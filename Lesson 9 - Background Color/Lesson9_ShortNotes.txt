@@ -1,0 +1,13 @@
+Lesson 9: Background Color of text in Bootstrap
+
+- Set background color for text on a web page
+
+- Contextual Classes for background color
+.bg-primary: key information
+.bg-success: success action
+.bg-info: set information
+.bg-warning: set warning message
+.bg-danger: set danger message
+.bg-secondary: less important info
+.bg-dark: dark background color
+.bg-light: light background color

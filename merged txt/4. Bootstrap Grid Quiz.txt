@@ -1,0 +1,5 @@
+Q-  How many columns make a responsive grid in Bootstrap?
+    3
+	4
+	12 (Answer)
+	6

@@ -1,0 +1,6 @@
+Learn how to work with Images in Bootstrap. With that, in this lesson, learn:
+- How to create Responsive Images
+- How to create Circular Image
+- How to create Rounded Corners of an image
+- Create Image Thumbnail
+- Center an image

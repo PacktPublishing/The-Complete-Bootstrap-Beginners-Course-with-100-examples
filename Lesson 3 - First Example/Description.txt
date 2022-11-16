@@ -1,0 +1,1 @@
+Let's begin with our first Bootstrap example and make learning interesting with live running of the code. We will alo learn the difference between fixed-with (responsive) and full-width container.

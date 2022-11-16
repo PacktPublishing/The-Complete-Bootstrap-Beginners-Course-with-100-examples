@@ -1,0 +1,25 @@
+Lesson 24: List Groups in Bootstrap
+
+- Create List Groups
+  .list-group class
+  .list-group-item class
+
+- Select the list group item
+  .active class
+
+- Disable the list group item
+  .disabled class
+
+- List Group with Linked Items
+  .list-group-item-action 
+
+- Contextual classes to Color List Items
+  .list-group-item-success
+  .list-group-item-secondary
+  .list-group-item-warning
+  .list-group-item-danger
+  .list-group-item-info
+  .list-group-item-dark
+  .list-group-item-light
+
+

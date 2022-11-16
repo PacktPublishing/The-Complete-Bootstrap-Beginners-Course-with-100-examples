@@ -1,0 +1,19 @@
+Lesson 10: Text Color in Bootstrap
+
+- Add color to text
+
+- Contextual Classes for text color
+
+.text-muted: GRAY COLOR
+.text-primary: BLUE COLOR - KEY CONTENT
+.text-success: SUCCESS ACTION - GREEN COLOR
+.text-info: SET INFORMATION
+.text-warning: SET WARNING MESSAGE - ORANGE
+.text-danger: SET DANGER MESSAGE - RED
+.text-secondary: LESS KEY CONTENT
+.text-white: WHITE COLOR TEXT
+.text-dark: DARK TEXT
+.text-body: NORMAL BODY
+.text-light: LIGHT COLOR
+
+bg-warning

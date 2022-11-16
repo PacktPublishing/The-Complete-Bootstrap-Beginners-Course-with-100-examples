@@ -1,0 +1,11 @@
+Lesson 20: Bootstrap collapse class
+
+- Collapse Content
+  .collapse class
+  data-toggle="collapse"
+
+- Display content always
+  .show class
+
+- Create Accordion
+  data-parent attribute

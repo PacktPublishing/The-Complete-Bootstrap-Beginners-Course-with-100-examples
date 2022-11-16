@@ -1,0 +1,30 @@
+Lesson 15: Navs in Bootstrap
+
+- Create horizontal menu
+.nav
+.nav-item
+.nav-link
+
+- Set Nav Alignment
+.justify-content-center
+.justify-content-end
+
+- Vertical Nav
+.flex-column
+
+- Create Navigation Tabs
+.nav-tabs
+
+- Create Navigation Pills
+.nav-pills
+
+- Justify Navigation Tabs/ Navigation Pills
+.nav-justified
+
+- Add dropdown to Tabs/ Pills
+
+- Toggleabale/ Dynamic Tabs
+data-toggle="tab"
+
+- Toggleabale/ Dynamic Pills
+data-toggle="pill"

@@ -1,0 +1,22 @@
+Lesson 25: Modal in Bootstrap
+
+- Create a Modal
+  .modal class: To create a modal
+  
+- Modal Dialog
+  .modal-dialog: Create modal on the web page
+  .modal-dialog-centered: Center modal on the web page
+  
+- Modal Content
+  .modal-content: For modal header, body, and footer
+  .modal-header: Header of the modal
+  .modal-title: Title of the modal
+  .modal-body: Body of the modal
+  .modal-footer: Footer of the modal
+  
+- Fade Modal
+  .fade class
+  
+- Resize Modal
+  .modal-sm
+  .modal-lg

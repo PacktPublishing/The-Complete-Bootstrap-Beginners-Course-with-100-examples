@@ -1,0 +1,21 @@
+Lesson 17: Images in Bootstrap
+
+- Create Circular Image
+  .rounded-circle class
+
+- Create Rounded Corners of an image
+  .rounded class
+
+- Create Image Thumbnail
+  .img-thumbnail class
+
+- Center an image
+  mx-auto: margin:auto
+  d-block: display:block
+
+- Align Images
+  .float-left class
+  .float-right class
+
+- Create Responsive Images
+  .img-fluid class

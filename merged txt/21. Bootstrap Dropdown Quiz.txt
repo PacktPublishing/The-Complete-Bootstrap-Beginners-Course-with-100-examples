@@ -1,0 +1,17 @@
+Q. How to separate links in a Bootstrap Dropdown Menu?
+    .dropdown-divider class (Answer)
+	.divider class
+	.dropdown-separate class
+	None of the above
+
+Q. How to create a drop left menu in Bootstrap?
+   Add the .drop-left class to the dropdown element
+   Add the .dropdown-left class to the dropdown element
+   Add the .dropleft class to the dropdown element (Answer)
+   Add the .dropdown-menu-left class to the dropdown element
+
+Q. How to align dropdown menu to the right in Bootstrap?
+   .dropdown-right-menu class
+   .dropdownright class
+   .dropdown-right class
+   .dropdown-menu-right class (Answer)

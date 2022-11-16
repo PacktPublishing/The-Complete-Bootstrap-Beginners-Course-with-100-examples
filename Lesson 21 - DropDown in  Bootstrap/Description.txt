@@ -1,0 +1,13 @@
+Dropdown in Bootstrap
+
+Learn how to create a Dropdown Menu in Bootstrap. With that learn the following in this lesson:
+- Add header in Dropdown Menu
+- Disable a dropdown menu item
+- Separate links in a Dropdown Menu
+- Create a Dropright menu
+- Create a Dropleft menu
+- Align dropdown menu to the right
+
+
+
+

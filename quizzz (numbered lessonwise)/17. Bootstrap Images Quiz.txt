@@ -1,0 +1,17 @@
+Q- How to create circular image (shape image to circle) in Bootstrap?
+   .rounded class
+   .rounded-circle class (Answer)
+   .round-cicle class
+   None of the above
+   
+Q- How to add rounded corners to an image in Bootstrap?
+   .rounded class (Answer)
+   .rounded-corners class 
+   .round class 
+   .corners class 
+ 
+Q- Which Bootstrap class is used for responsive image in Bootstrap?
+   .image-responsive	
+   .responsive	
+   .img-responsive	
+   .img-fluid (Answer)

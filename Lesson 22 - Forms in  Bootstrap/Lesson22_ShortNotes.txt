@@ -1,0 +1,7 @@
+Lesson 22: Forms in Bootstrap
+
+- Full-width form
+  Use the .form-group class
+
+- Inline Form
+  Use the .form-inline class

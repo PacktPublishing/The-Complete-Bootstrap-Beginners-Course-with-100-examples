@@ -1,0 +1,22 @@
+Lesson 16: Pagination in Bootstrap
+
+- Create Pagination
+.pagination class
+
+- Highlight a Link
+.active class
+
+- Disable a Link
+.disabled class
+
+- Resize Pagination
+.pagination-lg for large pagination
+.pagination-sm for smaller pagination
+
+- Align Pagination
+.justify-content-start
+.justify-content-center
+.justify-content-end
+
+
+

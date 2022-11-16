@@ -1,0 +1,49 @@
+Lesson 19: Card in Bootstrap
+
+- What are Cards in Bootstrap?
+   Card is a box.
+   The box has borders.
+   It adds padding around the content to make it look amazing.
+   Cards came to replace panels, wells and thumbnails.
+
+- Create a Card
+  .card class
+  .card-body class
+
+- Card Header and Footer
+  .card-header
+  .card-footer
+
+- Add color to card (contextual classes)
+  .bg-primary
+  .bg-success
+  .bg-info
+  .bg-warning
+  .bg-danger
+  .bg-secondary
+  .bg-dark
+  .bg-light
+
+- Card Title
+  .card-title class
+
+- Card Link
+  .card-link class
+
+- Add Image to a card background
+  .card-img-overlay
+
+- Set the image at the top inside the card
+  .card-img-top
+
+- Set the image at the bottom inside the card
+  .card-img-bottom
+
+- Grid of Cards
+  .card-columns 
+
+- Deck of cards
+  .card-deck class
+
+- Group of cards
+  .card-group class
